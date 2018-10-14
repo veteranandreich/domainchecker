@@ -1,0 +1,1 @@
+Put domainlist.txt and domainchecker.py in one directory

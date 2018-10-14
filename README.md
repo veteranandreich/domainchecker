@@ -1,0 +1,1 @@
+This programm allow you to check all free domains with your wished name

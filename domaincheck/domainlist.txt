@@ -1,7 +1,7 @@
 .academy 
 .accountant 
 .accountants 
-.active 
+.active
 .actor 
 .adult 
 .aero 
@@ -83,7 +83,7 @@
 .reviews 
 .rich
 .ru
-.msk.ru
+.msk.ru 
 .spb.ru 
 .site 
 .tel 
